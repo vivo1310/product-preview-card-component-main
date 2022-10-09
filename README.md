@@ -62,7 +62,8 @@ overflow: hidden
 
 
 ## Author
-
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Github - [@vivo1310](https://github.com/vivo1310)
 - LinkedIn - [/in/vivo1310](https://www.linkedin.com/in/vivo1310/)
+- Github - [@vivo1310](https://github.com/vivo1310)
+- Frontend Mentor - [@vivo1310](https://www.frontendmentor.io/profile/vivo1310)
+
+

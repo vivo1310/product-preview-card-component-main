@@ -1,6 +1,11 @@
-*, *::after, *::before {
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
+
+*,
+*::after,
+*::before {
     box-sizing: border-box
 }
+
 :root {
     /* font family */
     --ff-primary: 'Montserrat', sans-serif;
@@ -50,17 +55,21 @@ img {
     align-items: center;
     min-height: 100vh;
 }
+
 .card {
     border-radius: 15px;
     background-color: var(--color-white);
     width: var(--card-width);
     display: flex;
     justify-content: center;
-    overflow: hidden; /* solve the img overflow the top-left, bottom-left border */
+    overflow: hidden;
+    /* solve the img overflow the top-left, bottom-left border */
 }
+
 .card__img {
     width: calc(var(--card-width)/2);
 }
+
 .card__img img {
     /* border-radius: 15px 0 0 15px; */
     object-fit: cover;
@@ -83,17 +92,20 @@ img {
     letter-spacing: 5px;
     --fw-normal: 500;
 }
+
 .item-name {
     font-family: var(--ff-secondary);
     font-weight: var(--fw-bold);
     color: var(--color-very-dark-blue);
 }
+
 .price {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     margin: 25px 0 25px 0;
 }
+
 .final-price {
     font-family: var(--ff-secondary);
     font-weight: var(--fw-bold);
@@ -130,10 +142,20 @@ img {
     margin-right: 10px;
 }
 
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
 @media only screen and (max-width: 628px) {
     .container {
         padding: 0 30px;
     }
+
     .card {
         /* background-color:red; */
         display: flex;
