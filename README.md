@@ -28,15 +28,17 @@ Users should be able to:
 
 ### Screenshot
 Desktop view
+
 ![](./screenshots/desktop-solution.png)
 
 Mobile view
+
 ![](./screenshots/mobile-solution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-flexbox-jWwTzyyYDg)
+- Live Site URL: [Live Site](https://product-preview-card-vivo.netlify.app/)
 
 ## My process
 
@@ -61,6 +63,6 @@ overflow: hidden
 
 ## Author
 
-- Website - [Vi Vo](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [@vivo1310](https://github.com/vivo1310)
+- LinkedIn - [/in/vivo1310](https://www.linkedin.com/in/vivo1310/)
