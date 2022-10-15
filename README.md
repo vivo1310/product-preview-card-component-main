@@ -1,4 +1,6 @@
-![html5](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![css3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![frontend mentor](https://img.shields.io/badge/-frontend%20mentor-3F54A3?logo=frontend%20mentor&logoColor=white&style=for-the-badge)
+![html5](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![css3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 # Frontend Mentor - Product preview card component solution
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
